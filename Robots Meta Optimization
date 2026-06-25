@@ -1,0 +1,5 @@
+<?php
+if(is_search()){
+echo '<meta name="robots" content="noindex,follow">';
+}
+?>
